@@ -14,16 +14,16 @@ https://www.kaggle.com/datasets/shylesh101/tomato-leaf-disease
 ```
 The dataset contains images of tomato leaves belonging to the following classes:
 ```
-* Tomato Bacterial Spot
-* Tomato Early Blight
-* Tomato Healthy
-* Tomato Late Blight
-* Tomato Leaf Mold
-* Tomato Septoria Leaf Spot
-* Tomato Spider Mites
-* Tomato Target Spot
-* Tomato Mosaic Virus
-* Tomato Yellow Leaf Curl Virus
+• Tomato Bacterial Spot
+• Tomato Early Blight
+• Tomato Healthy
+• Tomato Late Blight
+• Tomato Leaf Mold
+• Tomato Septoria Leaf Spot
+• Tomato Spider Mites
+• Tomato Target Spot
+• Tomato Mosaic Virus
+• Tomato Yellow Leaf Curl Virus
 ```
 ---
 
