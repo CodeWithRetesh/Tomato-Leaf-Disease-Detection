@@ -195,4 +195,4 @@ B.Tech Information Technology Student
 AI / Machine Learning /Deep Learning Enthusiast
 
 Interested in Artificial Intelligence, Machine Learning, and Computer Vision applications for real-world problems.
-AI / Machine Learning Enthusiast
+
