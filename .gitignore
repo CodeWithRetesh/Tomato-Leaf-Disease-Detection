@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+gpu_env/
+venv/
+env/
+
+# Dataset
+tomato_dataset/
+
+# Model weights (optional)
+*.pth
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
