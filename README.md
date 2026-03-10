@@ -192,7 +192,7 @@ Possible improvements for this project include:
 ```
 Retesh Halder
 B.Tech Information Technology Student
-AI / Machine Learning /Deep Learning Enthusiast
+AI / Machine Learning / Deep Learning Enthusiast
 
 Interested in Artificial Intelligence, Machine Learning, and Computer Vision applications for real-world problems.
 
